@@ -1,1 +1,1 @@
-# CV @ `https://alexisdonato.github.io/CV/index.html`
+# CV @ https://alexisdonato.github.io/CV/index.html
